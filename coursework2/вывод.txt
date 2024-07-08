@@ -1,0 +1,12 @@
+Group 2371:
+record book number    surname       name patronymic       marks scholarship
+                 1    мельник     никита romanovich  5 5 5 5 4         4500
+                 2    мельник     nikita  романович  5 5 5 5 5         5000
+                 5    мельник     никита romanovich  5 5 5 5 4         4500
+                 4    мельник     nikita  романович  5 5 5 5 5         5000
+Group 2372:
+record book number    surname       name patronymic       marks scholarship
+                 2          m          n          r  5 5 5 2 5            0
+                 1     melnik     nikita  романович  5 5 5 2 5            0
+                 3    мельник     никита romanovich  5 5 5 5 4         4500
+                 4          m          n          r  5 5 5 2 5            0
