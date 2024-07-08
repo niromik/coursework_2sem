@@ -30,7 +30,7 @@
 
 ## Файлы:
 
-- coursework.cpp - main, структура меню и все функции для обработки структуры List.
+- coursework.cpp - main, структура меню и функции для обработки класса List.
 - Header.h - структура класса List и структур info, Student и StoGMap.
 - Source.cpp - реализация методов класса List и структур info, Student и StoGMap.
 - ввод1, 2.txt - различные наборы вводимых данных.
